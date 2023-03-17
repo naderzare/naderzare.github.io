@@ -13,8 +13,17 @@
 
     {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    <br>
     {% endif %}
 
+    {% if sidebar.tagline2 %}
+    <h3 class="tagline">{{ sidebar.tagline2 }}</h3>
+    <br>
+    {% endif %}
+
+    {% if sidebar.tagline3 %}
+    <h3 class="tagline">{{ sidebar.tagline3 }}</h3>
+    {% endif %}
   </div><!--//profile-container-->
 
   {% include contact.html %}
