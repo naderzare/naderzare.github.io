@@ -196,6 +196,51 @@ oss:
         link: "https://github.com/Cyrus2D/PyrusGeom"
         tagline: "PyrusGeom is a Python library for dealing with math and geometry in soccer simulation 2D and 2-dimensional problems."
 
+rewards:
+    title: Rewards and Achievements
+    intro: |
+    titles:
+      - place: 2nd Place  
+        event: RoboCup, Worldwide International Robotic Competition, Soccer Simulation 2D League
+        where: Bangkok, Thailand 
+        year: 2022 
+      - place: 1st Place 
+        event: RoboCup, Worldwide International Robotic Competition, Soccer Simulation 2D League
+        where: Online 
+        year: 2021 
+      - place: 3rd Place 
+        event: RoboCup, Worldwide International Robotic Competition, Soccer Simulation 2D League
+        where: Sydney, Australia 
+        year: 2019 
+      - place: 2nd Place 
+        event: RoboCup, Worldwide International Robotic Competition, Soccer Simulation 2D League
+        where: Montreal, Canada 
+        year: 2018 
+      - place: 4th Place 
+        event: RoboCup, Worldwide International Robotic Competition, Soccer Simulation 2D League
+        where: Nagoya, Japan 
+        year: 2017 
+      - place: 5th Place 
+        event: RoboCup, Worldwide International Robotic Competition, Soccer Simulation 2D League
+        where: Jeoa Pesoa, Brazil 
+        year: 2014 
+      - place: 2nd Place 
+        event: Japan Open RoboCup Competition, Soccer Simulation 2D League
+        where: Japan 
+        year: 2020 
+      - place: 1st Place 
+        event: Asia-Pacific RoboCup Competition, Soccer Simulation 2D League
+        where: Kish, Iran 
+        year: 2018 
+      - place: 1st Place 
+        event: Iran Open RoboCup Competition, Soccer Simulation 2D League
+        where: Tehran, Iran 
+        year: 2018 
+      - place: 1st Place 
+        event: Iran Open RoboCup Competition, Soccer Simulation 2D League
+        where: Tehran, Iran 
+        year: 2014 
+
 publications:
     title: Publications
     intro: |
