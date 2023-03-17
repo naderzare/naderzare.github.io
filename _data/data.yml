@@ -7,67 +7,61 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Nader Zare
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline2: Machine Learning Researcher
+    tagline3: C++ and Python Programmer
+    avatar: nader.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: nader.zare88[@]gmail.com
+#    phone: 0
+    timezone: Atlantic Daylight Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: naderzare.github.io #do not add http://
+    linkedin: nader-zare
+#    xing: alandoe
+    github: naderzare
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+#    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://www.naderzare.github.io/pdf/cv.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Persian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Climbing
+#          link:
+#
+#        - item: Snowboarding
+#          link:
+#
+#        - item: Cooking
+#          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Senior machine learning researcher and full-stack software developer with 10+ years of experience developing testing and maintaining enterprise software applications implemented in Python, C++, HTML, CSS, and JavaScript. Designing and developing enterprise projects as well as machine learning frameworks to work on the soccer simulation environment. Contributing to the open-source community by making the machine learning projects publicly available. Winning the championship of RoboCup competition as the leader of Cyrus Soccer Simulation 2D team, thanks to Strong programming knowledge in addition to profound machine learning background.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.S. in Artificial Intelligent and Robotic
+        university: Khajeh Nasir Toosi University of technology
+        time: Sep. 2015 - AUG. 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +70,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: B.S. in Information Technology Engineering
+        university: Shiraz University of Technology
+        time: Sep. 2010 - June. 2014
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,43 +84,55 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Project Manager of Ballast Water Reporting Form Information System
+        time: 2019 - Present
+        company: Institute for Big Data Analytics, Dalhousie University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Developed and maintained a sensitive system by constant monitoring of the performance.
+          - Handled different aspects of the project through the entire software development life cycle.
+          - Coordinated and assisted team members during the development of the project.
+          - Managed task assignments to team members and collaborated with them throughout the development of the project.
+          - Engaged with research collaborators at the Department of Fisheries and Oceans Canada (DFO) and the University of Toronto.
+          - Introduced agile concept and directed project plans.
+          - Supported and troubleshot the system in a Ubuntu server.
+      - role: Full-Stack Web developer of Ballast Water Reporting Form Information System
+        time: 2019 - Present
+        company: Institute for Big Data Analytics, Dalhousie University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Developed back-end and front-end of the website powered by Django and MongoDB.
+          - Implemented an email crawling module to process received emails, download files, parse PDF forms, standardize data, store standardized data in a database, and respond to emails.
+          - Implemented port and coordinates standardization algorithm to standardize inputs and create suggestions.
+          - Created web interfaces to help users in filtering queries. 
+          - Improved the performance of the system in many different algorithms such as calculating Ballast Risk Assessment, Updating Geo Location Fields and Updating port scaled parameters by multiprocessing and running tasks in the background.
+          - Developed unit tests for features and functions.
+          - Developing an application programming interface(API) to help users to filter and get stored data in JSON format.
+      - role: Senior Research Assistant, Robotic and Machine Learning
+        time: 2019 - Present
+        company: Institute for Big Data Analytics, Dalhousie University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Developed a vessel navigation framework for training autonomous vessel navigation.
+          - Employed deep reinforcement learning methods to train autonomous vessels for navigating in a simulation of real-world environments.
+          - Developed CYRUS, a 2D soccer simulation team, and employed various novel machine learning methods to solve the multi-agent learning problem.
+          - Applied machine learning algorithms to the CYRUS soccer simulation 2D team and participated in qualified RoboCup competitions.
+          - Developed the first Python soccer simulation 2D base code called PYRUS2D, consisting of over 20k lines of code.
+          - Released the most powerful C++ soccer simulation 2D base code by merging Helios and Gliders base codes and applying the best features of the CYRUS team.
+          - Developed a soccer simulation 2D log analyzer called Cyrus Log Analyzer that can analyze and generate useful statistical reports from soccer simulation 2D game logs powered by Python.
+          - Improved and upgraded AutoTest2D software for parallel testing of soccer simulation 2D teams powered by bash scripts.
+          - Developed AutoTune2D software for fine-tuning soccer simulation 2D team parameters.
+          - Implemented a simple library called CppDnn for using Keras and TensorFlow for feed forwarding in C++.
+          - Implemented a Python mathematical library called PyrusGeom for working in two-dimensional geometry fields.
+          - Simplified Helios base code and its library to help junior students participate in the junior RoboCup competition called StarterAgent2D and StarterLibRCSC.
+          - Created an application containing bash scripts powered by Docker, a web service powered by Django and SQLite, and a Telegram bot for testing and holding soccer simulation 2D tournaments called SS2D-Docker-Tournament-Runner.
+          - Implemented a new observation model in soccer simulation 2D server to make the player's observation closer to humans and new robots. The server includes over 50k lines of C++ code.
+      - role: C++ and Python Developer
+        time: 2017 - 2019
+        company: Peykasa Message ware
+        details: |
+          - Developed and designed a C++ component to manage and monitor SMS messages among GSM network providers.
+          - Built a high-speed, multi-process Python application to store GSM data on ElasticSearch.
+          - Redesigned and developed an application with components for parsing, creating flow messages, and storing flows on ElasticSearch.
+          - Conducted integration tests using the Python Robot Framework for GSM C++ components.
+          - Worked with many different technologies such as Robotframwork, Kibana, Elasticsearch, and git.
 projects:
     title: Projects
     intro: >
