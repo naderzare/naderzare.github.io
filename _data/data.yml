@@ -136,92 +136,154 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Cyrus2D Base Code
+        link: "https://github.com/Cyrus2D/Cyrus2DBase"
+        tagline: "Cyrus2D-base is a sample team for the RoboCup Soccer 2D Simulator. This base is a Helios base Fork. We merged the newest version of Helios base(Agent2D) with the Gliders2D base V2.6 together, After that we applied several features of Cyrus2021, the champion of RoboCup 2021 in Soccer Simulation 2D league to improve the performance and capabilities of this base."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Pyrus2D Base Code
+        link: "https://github.com/Cyrus2D/Pyrus2D"
+        tagline: "Pyrus is the first complete python sample team code for the RoboCup Soccer 2D Simulator."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: CppDNN
+        link: "https://github.com/Cyrus2D/CppDNN"
+        tagline: "CppDnn is a simple library for using Keras and TensorFlow for feed forwarding in C++."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: AutoTest2D
+        link: "https://github.com/Cyrus2D/AutoTest2D"
+        tagline: "AutoTest2D is a software for parallel testing of soccer simulation 2D teams powered by bash scripts."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: AutoTune2D
+        link: "https://github.com/Cyrus2D/AutoTune2D"
+        tagline: "AutoTune2D is a software for fine-tuning soccer simulation 2D team parameters."
 
+      - title: CyrusLogAnalyzer
+        link: "https://github.com/Cyrus2D/CyrusLogAnalyzer"
+        tagline: "Cyrus log analyzer is library to help RoboCup researcher to analyze soccer simulation 2D game logs."
+
+      - title: PyrusGeom
+        link: "https://github.com/Cyrus2D/PyrusGeom"
+        tagline: "PyrusGeom is a Python library for dealing with math and geometry in soccer simulation 2D and 2-dimensional problems."
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Cyrus2D Base Code
+        link: "https://github.com/Cyrus2D/Cyrus2DBase"
+        tagline: "Cyrus2D-base is a sample team for the RoboCup Soccer 2D Simulator. This base is a Helios base Fork. We merged the newest version of Helios base(Agent2D) with the Gliders2D base V2.6 together, After that we applied several features of Cyrus2021, the champion of RoboCup 2021 in Soccer Simulation 2D league to improve the performance and capabilities of this base."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Pyrus2D Base Code
+        link: "https://github.com/Cyrus2D/Pyrus2D"
+        tagline: "Pyrus is the first complete python sample team code for the RoboCup Soccer 2D Simulator."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: CppDNN
+        link: "https://github.com/Cyrus2D/CppDNN"
+        tagline: "CppDnn is a simple library for using Keras and TensorFlow for feed forwarding in C++."
+
+      - title: AutoTest2D
+        link: "https://github.com/Cyrus2D/AutoTest2D"
+        tagline: "AutoTest2D is a software for parallel testing of soccer simulation 2D teams powered by bash scripts."
+
+      - title: AutoTune2D
+        link: "https://github.com/Cyrus2D/AutoTune2D"
+        tagline: "AutoTune2D is a software for fine-tuning soccer simulation 2D team parameters."
+
+      - title: CyrusLogAnalyzer
+        link: "https://github.com/Cyrus2D/CyrusLogAnalyzer"
+        tagline: "Cyrus log analyzer is library to help RoboCup researcher to analyze soccer simulation 2D game logs."
+
+      - title: PyrusGeom
+        link: "https://github.com/Cyrus2D/PyrusGeom"
+        tagline: "PyrusGeom is a Python library for dealing with math and geometry in soccer simulation 2D and 2-dimensional problems."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Cyrus2D base: Source Code Base for RoboCup 2D Soccer Simulation League"
+        link: ""
+        authors: N Zare, O Amini, A Sayareh, M Sarvmaili, A Firouzkouhi, SR Rad, ...
+        conference: "RoboCup 2022: Robot World Cup, Springer"
+      - title: Cyrus 2D Simulation Team Description Paper 2022
+        link: ""
+        authors: N Zare, O Amini, A Sayareh, M Sarvmaili, A Firouzkouhi, SR Rad, ...
+        conference: "RoboCup 2022 Symposium and Competitions: Team Description Papers. Bangkok, Thailand."
+      - title: Improving Dribbling, Passing, and Marking Actions in Soccer Simulation 2D Games Using Machine Learning
+        link: ""
+        authors: N Zare, O Amini, A Sayareh, M Sarvmaili, A Firouzkouhi, S Matwin, ...
+        conference: "RoboCup 2021: Robot World Cup XXIV, Springer"
+      - title: Engineering Features to Improve Pass Prediction in Soccer Simulation 2D Games
+        link: ""
+        authors: N Zare, M Sarvmaili, A Sayareh, O Amini, S Matwin, A Soares
+        conference: "RoboCup 2021: Robot World Cup XXIV, Springer"
+      - title: CYRUS Soccer Simulation 2D Team Description Paper 2021
+        link: ""
+        authors: N Zare, A Sayareh, M Sarvmaili, O Amini, A Soares, S Matwin.
+        conference: "RoboCup 2021 Symposium and Competitions: Team Description Papers. Online."
+      - title: Using deep reinforcement learning methods for autonomous vessels in 2d environments
+        link: ""
+        authors: M Etemad, N Zare, M Sarvmaili, A Soares, B Brandoli Machado, S Matwin.
+        conference: Canadian Conference on Artificial IntelligenceCanadian AI. Canada. 2020.
+      - title: Cyrus 2D Simulation Team Description Paper 2019
+        link: ""
+        authors: N Zare, M Sarvmaili, O Mehrabian, A Nikanjam, SH Khasteh, A Sayareh, ...
+        conference: "RoboCup 2019 Symposium and Competitions: Team Description Papers. Sydney, Australia."
+      - title: Cyrus 2D Simulation Team Description Paper 2018
+        link: ""
+        authors: N Zare, M Sadeghipour, A Keshavarzi, M Sarvmaili, A Nikanjam, ...
+        conference: "RoboCup 2018 Symposium and Competitions: Team Description Papers. Montreal, Canada."
+      - title: Cyrus 2D Simulation Team Description Paper 2017
+        link: ""
+        authors: N Zare A Najimi, M Sarvmaili, ...
+        conference: "RoboCup 2017 Symposium and Competitions: Team Description Papers. Nagoya, Japan"
+      - title: "Intelligent and dynamic method to specify chrological order of the games to improve the excitement and fairness of the champions in simulation league"
+        link: ""
+        authors: N Zare, A Keshavarzi, SE Beheshtian, H Mowla, A Akbarpour, H Jafari, ...
+        conference: "Artificial Intelligence and Robotics (IRANOPEN), 2016. Page 1-6, Publisher IEEE. Tehran, Iran."
+      - title: "Cyrus 2D Simulation Team Description Paper 2016"
+        link: ""
+        authors: N Zare, A Keshavarzi, SE Beheshtian, H Mowla, A Akbarpour, H Jafari, ...
+        conference: "RoboCup 2016 Symposium and Competitions: Team Description Papers. Leipzig, Germany."
+      - title: "Cyrus 2D Simulation Team Description Paper 2015"
+        link: ""
+        authors: N Zare, M Karimi, A Keshavarzi, E Asali, HA Poor, A Aminian, ...
+        conference: "RoboCup 2015 Symposium and Competitions: Team Description Papers. Hefei, China."
+      - title: "Cyrus 2D Simulation Team Description Paper 2014"
+        link: ""
+        authors: R Khayami, N Zare, M Karimi, P Mahor, A Afshar, MS Najafi, M Asadi, ...
+        conference: "RoboCup 2014 Symposium and Competitions: Team Description Papers. Joao Pessoa, Brazil."
+      - title: "Cyrus 2D Simulation Team Description Paper 2013"
+        link: ""
+        authors: N Zare, H Zolanvar, M karimi, P Mahor, F Tekara, E Asali, M Fatehi.
+        conference: "RoboCup 2013 Symposium and Competitions: Team Description Papers. Eindhoven, Netherlands."
+      - title: "Coordination Approach to Find Best Defense Decision with Multiple Possibilities amoung Robocup Soccer Simulation Team"
+        link: ""
+        authors: A Keshavarzi, N Zare.
+        conference: "Artificial Intelligence and Robotics (IRANOPEN), 2013. Page 1-6, Publisher IEEE. Tehran, Iran."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
+skills2:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Programming Languages
+        subnames: Python, C++, CSS, HTML, JavaScript
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Data Base
+        subnames: MongoDB, Redis, SQLight, ElasticSearch
 
-      - name: Angular
-        level: 98%
+      - name: Integrated development environment (IDE)
+        subnames: PyCharm, CLion, VSCode, QT Creator, R Studio, MATLAB
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Artificial Intelligent Concepts
+        subnames: Deep Learning, Deep Reinforcement Learning
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Machine Learning Frameworks
+        subnames: Keras, Tensorflow, Pandas, NumPy
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: OS
+        subnames: Ubuntu, Fedora, Windows
 
+      - name: Technologies and Frameworks
+        subnames: Django, Git, GitLAB, Jenkins, Docker, Robot-Framework
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
