@@ -42,17 +42,28 @@ sidebar:
         - idiom: English
           level: Professional
 
-#    interests:
-#      title: Interests
-#      info:
-#        - item: Climbing
-#          link:
-#
-#        - item: Snowboarding
-#          link:
-#
-#        - item: Cooking
-#          link:
+    interests:
+      title: In News
+      info:
+        - item: RoboCup2021, itworldcanada
+          link: https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872
+
+        - item: RoboCup2021, thecoast.ca
+          link: https://www.thecoast.ca/news-opinion/local-robotics-team-snags-gold-at-worlds-largest-ai-soccer-competition-26958526
+
+        - item: RoboCup2021, softwaretesting.news
+          link: https://softwaretesting.news/canadian-team-to-win-the-international-robocup-competition/
+
+        - item: RoboCup2021, ace-net.ca
+          link: https://ace-net.ca/women-in-data-science-meetup.html
+
+        - item: RoboCup2021, newswire.ca
+          link: https://www.newswire.ca/news-releases/dalhousie-university-robotics-team-becomes-first-canadian-squad-to-win-2021-national-robocup-893099554.html
+
+        - item: RoboCup2021, softwaretesting.news
+          link: https://softwaretesting.news/canadian-team-to-win-the-international-robocup-competition/
+
+
 
 career-profile:
     title: Career Profile
