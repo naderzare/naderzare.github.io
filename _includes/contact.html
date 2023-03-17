@@ -31,6 +31,18 @@
     </li>
     {% endif %}
 
+    {% if sidebar.cyrusgit %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="http://{{ sidebar.cyrusgit }}" target="_blank">CYRUS Team GitHub</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.cyrusweb %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="http://{{ sidebar.cyrusweb }}" target="_blank">CYRUS Team Website</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
