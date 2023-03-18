@@ -152,33 +152,18 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Cyrus2D Base Code
-        link: "https://github.com/Cyrus2D/Cyrus2DBase"
-        tagline: "Cyrus2D-base is a sample team for the RoboCup Soccer 2D Simulator. This base is a Helios base Fork. We merged the newest version of Helios base(Agent2D) with the Gliders2D base V2.6 together, After that we applied several features of Cyrus2021, the champion of RoboCup 2021 in Soccer Simulation 2D league to improve the performance and capabilities of this base."
+      - title: Cyrus Soccer Simulation Team
+        link: "https://cyrus2d.com/"
+        tagline: "I have lead CYRUS RoboCup soccer simulation 2D team since 11 years ago. CYRUS is one the world's most powerful soccer simulation 2D teams. I have implemented and designed many artificial intelligence algorithms and strategies for our CYRUS team."
 
-      - title: Pyrus2D Base Code
-        link: "https://github.com/Cyrus2D/Pyrus2D"
-        tagline: "Pyrus is the first complete python sample team code for the RoboCup Soccer 2D Simulator."
+      - title: Ballast Water Report System
+        link: ""
+        tagline: "BWRFIS is a website developed at Dalhousie University for Transport Canada and Fisheries and Oceans Canada. I was the manager and full-stack developer of this project. As part of this project, I was responsible for managing and assigning tasks to team members and working with the Django framework and MongoDB database."
 
-      - title: CppDNN
-        link: "https://github.com/Cyrus2D/CppDNN"
-        tagline: "CppDnn is a simple library for using Keras and TensorFlow for feed forwarding in C++."
+      - title: SS2D Tournament Runner
+        link: "https://github.com/RCSS-IR"
+        tagline: "This project is a 2D soccer simulation tournament management system that utilizes Django, SQLite, and Docker. With the website, teams can upload and test their teams, and executive members can use scripts powered by Docker to manage the tournament."
 
-      - title: AutoTest2D
-        link: "https://github.com/Cyrus2D/AutoTest2D"
-        tagline: "AutoTest2D is a software for parallel testing of soccer simulation 2D teams powered by bash scripts."
-
-      - title: AutoTune2D
-        link: "https://github.com/Cyrus2D/AutoTune2D"
-        tagline: "AutoTune2D is a software for fine-tuning soccer simulation 2D team parameters."
-
-      - title: CyrusLogAnalyzer
-        link: "https://github.com/Cyrus2D/CyrusLogAnalyzer"
-        tagline: "Cyrus log analyzer is library to help RoboCup researcher to analyze soccer simulation 2D game logs."
-
-      - title: PyrusGeom
-        link: "https://github.com/Cyrus2D/PyrusGeom"
-        tagline: "PyrusGeom is a Python library for dealing with math and geometry in soccer simulation 2D and 2-dimensional problems."
 oss:
     title: OSS Contributions
     intro: >
