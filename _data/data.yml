@@ -31,7 +31,9 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: github.com/naderzare/naderzare.github.io/blob/master/pdf/cv.pdf
+    pdf1: github.com/naderzare/naderzare.github.io/blob/master/pdf/nader-zare-long-research.pdf
+    pdf2: github.com/naderzare/naderzare.github.io/blob/master/pdf/nader-zare-short-research.pdf
+    pdf3: github.com/naderzare/naderzare.github.io/blob/master/pdf/nader-zare-short-web.pdf
 
     languages:
       title: Languages
