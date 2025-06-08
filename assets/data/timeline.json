@@ -1,0 +1,49 @@
+{
+  "bands": [
+    {
+      "title": "Team Leader – CYRUS Robotic Team",
+      "category": "leadership",
+      "start": "2010-09",
+      "end": "2025-06",
+      "tags": ["C++", "AI", "Linux"]
+    },
+    {
+      "title": "Member – RoboCup Technical & Organization Committee",
+      "category": "service",
+      "start": "2014-10",
+      "end": "2018-07"
+    },
+    {
+      "title": "Software Developer – IGT",
+      "category": "work",
+      "start": "2017-02",
+      "end": "2019-06"
+    },
+    {
+      "title": "Research Assistant – Dalhousie University",
+      "category": "research",
+      "start": "2019-01",
+      "end": "2025-06"
+    },
+    {
+      "title": "M.S. – K. N. Toosi University",
+      "category": "degree",
+      "start": "2015-09",
+      "end": "2018-08"
+    },
+    {
+      "title": "B.S. – Shiraz University",
+      "category": "degree",
+      "start": "2010-09",
+      "end": "2014-06"
+    }
+  ],
+  "milestones": [
+    { "label": "First Participation in RoboCup", "date": "2012-07" },
+    { "label": "Won RoboCup Championship", "date": "2022-07" }
+  ],
+  "callouts": [
+    { "title": "Bachelor — Shiraz University\nInformation Technology", "date": "2012-06" },
+    { "title": "Master — K. N. Toosi University\nAI & Robotics", "date": "2016-07" }
+  ]
+}

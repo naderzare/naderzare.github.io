@@ -1,0 +1,66 @@
+#timeline {
+  position: relative;
+  border-left: 3px solid #999;
+  margin: 40px 0;
+  padding-left: 40px;
+}
+
+#timeline .year-label {
+  position: absolute;
+  left: -35px;
+  width: 30px;
+  text-align: right;
+  font-size: 12px;
+  color: #666;
+}
+
+.timeline-band {
+  position: absolute;
+  left: 10px;
+  width: calc(100% - 10px);
+  border-radius: 4px;
+  padding: 4px 8px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 12px;
+}
+
+.timeline-band.leadership { background: var(--cat-leadership); }
+.timeline-band.service { background: var(--cat-service); }
+.timeline-band.work { background: var(--cat-work); }
+.timeline-band.research { background: var(--cat-research); }
+.timeline-band.degree { background: var(--cat-degree); }
+
+.timeline-tags {
+  margin-top: 4px;
+}
+
+.timeline-skill {
+  display: inline-block;
+  background: rgba(0,0,0,0.2);
+  color: #fff;
+  font-size: 10px;
+  padding: 2px 4px;
+  border-radius: 2px;
+  margin-right: 2px;
+}
+
+.timeline-node {
+  position: absolute;
+  left: -6px;
+  width: 12px;
+  height: 12px;
+  background: #666;
+  border-radius: 50%;
+}
+
+.timeline-callout {
+  position: absolute;
+  left: 150px;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 4px 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-size: 12px;
+}
