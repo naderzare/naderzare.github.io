@@ -1,4 +1,12 @@
 /* ======= Base ======= */
+:root {
+  --cat-leadership: #58b957;
+  --cat-service: #f0a93d;
+  --cat-work: #66a3ff;
+  --cat-research: #e86a6a;
+  --cat-degree: #e5be92;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
